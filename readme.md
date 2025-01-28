@@ -123,6 +123,8 @@ if (runner) {
 
 `$workspaceUrl` -> Folder which the file belongs to.
 
+`$workspace` -> Get directory path file project.
+
 
 ## Updates
 
